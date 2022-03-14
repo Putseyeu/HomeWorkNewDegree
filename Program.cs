@@ -23,7 +23,7 @@ namespace HomeWorkNewDegree
                 degree++;
                 numberСomputed = Math.Pow(numberFromTask, degree);
             }
-            Console.WriteLine($"Рандомное число {randomNumber}, число {numberFromTask} в степени {degree} равно {numberСomputed}");
+            Console.WriteLine($"Случайное число {randomNumber}, число {numberFromTask} в степени {degree} равно {numberСomputed}");
         }
     }
 }
